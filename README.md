@@ -48,3 +48,5 @@ This project uses a React frontend as the user interface, a FastAPI backend as t
 ## Current Status
 
 Project setup in progress.
+Currently, use command: .\.venv\Scripts\python.exe -m uvicorn backend.main:app --reload
+to start server
